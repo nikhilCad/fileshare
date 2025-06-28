@@ -17,7 +17,7 @@ This project is the frontend for Dropbox Lite, a simple file upload and download
 ## 1. Clone the Repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/nikhilCad/fileshare.git
 cd dropbox-lite-frontend
 ```
 
@@ -26,7 +26,7 @@ cd dropbox-lite-frontend
 ## 2. Install Dependencies
 
 ```
-npm install
+npm i
 ```
 
 ---
